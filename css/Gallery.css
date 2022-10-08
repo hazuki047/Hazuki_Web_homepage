@@ -1,0 +1,163 @@
+*{
+    margin:0;
+    padding: 0;
+    /* background-color:#ffb3e1; */
+    font-family: "comic Sans MS";
+}
+.information a{
+    color:black;
+    text-decoration: none;
+  }
+.information a:hover {
+    color:rgb(233, 195, 221);
+  }
+body{
+    background-color:#f77a99;
+}
+img{
+    position: fixed;
+    height: 65vw;
+}
+h1{
+    position: relative;
+    text-align: center;
+    font-size: 5vw;
+    top: 5vw;
+    filter: drop-shadow(10px 10px 5px #e9a9d0);
+}
+.main img{
+    position: absolute;
+    top: 3vw;
+    left: 22vw;
+    height: 15vw;
+}
+.hazuki img{
+    position: absolute;
+    top: 1.3vw;
+    left: 62vw;
+    height: 18vw;
+}
+.main2{
+    height: 500vw;
+    text-align: center;
+}
+/* 少女の記憶 */
+.work img{
+    position: relative;
+    text-align: center;
+    top: 20vw;
+    height: 35vw;
+    margin: 1vw;
+}
+.work h2{
+    position: relative;
+    text-align: center;
+    top: 20vw;
+    font-size: 3vw;
+}
+.work p{
+    position: relative;
+    text-align: center;
+    top: 20vw;
+    font-size: 1.5vw;
+}
+/* 今は見えないもの */
+.work2 img{
+    position: relative;
+    text-align: center;
+    top: 30vw;
+    height: 35vw;
+    margin: 1vw;
+}
+.work2 h2{
+    position: relative;
+    text-align: center;
+    top: 30vw;
+    font-size: 3vw;
+}
+.work2 p{
+    position: relative;
+    text-align: center;
+    top: 30vw;
+    font-size: 1.5vw;
+}
+/* 幸 */
+.work3 img{
+    position: relative;
+    text-align: center;
+    top: 40vw;
+    height: 35vw;
+    margin: 1vw;
+}
+.work3 h2{
+    position: relative;
+    text-align: center;
+    top: 40vw;
+    font-size: 3vw;
+}
+.work3 p{
+    position: relative;
+    text-align: center;
+    top: 40vw;
+    font-size: 1.5vw;
+}
+/* 小５ */
+.work4 img{
+    position: relative;
+    text-align: center;
+    top: 50vw;
+    height: 35vw;
+    margin: 1vw;
+}
+.work4 h2{
+    position: relative;
+    text-align: center;
+    top: 50vw;
+    font-size: 3vw;
+}
+.work4 p{
+    position: relative;
+    text-align: center;
+    top: 50vw;
+    font-size: 1.5vw;
+}
+/* 勇者 */
+.work5 img{
+    position: relative;
+    text-align: center;
+    top: 60vw;
+    height: 35vw;
+    margin: 1vw;
+}
+.work5 h2{
+    position: relative;
+    text-align: center;
+    top: 60vw;
+    font-size: 3vw;
+}
+.work5 p{
+    position: relative;
+    text-align: center;
+    top: 60vw;
+    font-size: 1.5vw;
+}
+/* ５年前 */
+.work6 img{
+    position: relative;
+    text-align: center;
+    top: 70vw;
+    height: 35vw;
+    margin: 1vw;
+}
+.work6 h2{
+    position: relative;
+    text-align: center;
+    top: 70vw;
+    font-size: 3vw;
+}
+.work6 p{
+    position: relative;
+    text-align: center;
+    top: 70vw;
+    font-size: 1.5vw;
+}

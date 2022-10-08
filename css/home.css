@@ -1,0 +1,162 @@
+
+*{
+    margin:0;
+    padding: 0;
+}
+/* メニュー欄aタグ */
+.font a{
+    color: rgb(255, 230, 245);
+    text-decoration: none;
+}
+.font :hover {
+    color:rgb(116, 101, 112);
+  }
+/* insta aタグ */
+.home a{
+    color:black;
+    text-decoration: none;
+  }
+.home a:hover {
+    color:rgb(233, 195, 221);
+  }
+
+/* .body{
+    position: absolute;
+    width: auto;
+    height: auto;
+    background-image: linear-gradient(to bottom, rgb(224, 149, 165), rgb(198, 63, 92), rgb(224, 149, 165));
+  }  */
+.header{
+    position: fixed;
+    width: auto;
+}
+.font{
+    position: fixed;
+    z-index: 500;
+    height:5vw;
+    width:100vw;
+    font-size: 2vw;
+    text-align:right;
+}
+.font li{
+    /* list-style: none; */
+    display: inline-block;
+    filter: drop-shadow(10px 10px 5px #ffb3e1);
+    color: rgb(255, 230, 245);
+    margin: 0;
+    width: auto;
+    padding: 1.5vw ;
+}
+
+.main{
+    height: 300vw;
+    background-image: linear-gradient(to bottom, rgb(255, 95, 130), rgb(62, 122, 161), rgb(255, 95, 130));
+}
+.home_logo{
+    /* background-color:rgb(255, 149, 165); */
+    position: absolute;
+    width: 100vw;
+    height: auto;
+}
+/* 画像イラスト */
+.home_logo img {
+    position: fixed;
+    height: 40vw;
+    top: 10vw;
+    left:7vw;
+    /* background-color: yellowgreen; */
+}
+/* 自己紹介文 */
+.home{
+    position: relative;
+    top: 20vw;
+    left: 50vw;
+    width: 50vw;
+    /* height: 115vw; */
+    /* background-color:rgb(68, 45, 48); */
+    /* background-image: linear-gradient(to bottom, rgb(224, 149, 165), rgb(198, 63, 92), rgb(224, 149, 165)); */
+    color:black;
+    font-family: "comic Sans MS";
+    font-size: 2.5vw;
+}
+.home h1{
+    font-size: 5vw;
+}
+.home h2{
+    font-size: 2.4vw;
+}
+.home h3{
+    font-size: 2vw;
+}
+.home h4{
+    font-size: 2vw;
+}
+
+/* 自己紹介画像 */
+.home img{
+    height: 46vw;
+    top: 9vw;
+    left: 7vw;
+    position: relative;
+}
+.home h6{
+    color:black;
+    font-family: "comic Sans MS";
+    text-align: center;
+    top: 30vw;
+    font-size: 1.6vw;
+    position: relative;
+}
+
+/* 作品 */
+.picture_2 p{
+    position: absolute;
+}
+.picture1 img{
+    position: relative;
+    top: 71vw;
+    left: 4vw;
+    height: 30vw;
+}
+.picture2 img{
+    position: relative;
+    top: 103vw;
+    left: 1vw;
+    height: 35vw;
+}
+.picture3 img{
+    position: relative;
+    top: 70vw;
+    left: 27vw;
+    height: 40vw;
+}
+.picture4 img{
+    position: relative;
+    top:106vw;
+    left: 75vw;
+    height: 32vw;
+}
+.picture5 img{
+    position: relative;
+    top: 111vw;
+    left: 27vw;
+    height: 60vw;
+}
+.picture6 img{
+    position: relative;
+    top: 139vw;
+    left: 2vw;
+    height: 34vw;
+}
+.picture7 img{
+    position: relative;
+    top: 75vw;
+    left: 57vw;
+    height: 30vw;
+}
+.picture8 img{
+    position: relative;
+    top: 139.5vw;
+    left: 74.5vw;
+    height: 17vw;
+}
